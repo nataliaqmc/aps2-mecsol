@@ -2,5 +2,6 @@
 #### Integrantes:
   - Carolina Hirschheimer
   - Natália Carreras
+  - Rafael Libertini
   - Rodrigo Nigri
 
